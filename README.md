@@ -1,4 +1,4 @@
-# Firestore Writer Waster tag for Google Tag Manager Server Side
+# Firestore Writer Wascer tag for Google Tag Manager Server Side
 
 Firestore Writer Wascer tag allows recording data from server Google Tag Manager to Firestore.
 
