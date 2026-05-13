@@ -5,7 +5,7 @@
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Firestore Writer",
+  "displayName": "Firestore Writer Wascer",
   "brand": {
     "id": "brand_dummy",
     "displayName": "Wascer",
