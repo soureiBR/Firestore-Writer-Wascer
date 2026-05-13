@@ -1,6 +1,6 @@
 # Firestore Writer Waster tag for Google Tag Manager Server Side
 
-Firestore Writer Waster tag allows recording data from server Google Tag Manager to Firestore.
+Firestore Writer Wascer tag allows recording data from server Google Tag Manager to Firestore.
 
 **There are two action types:**
 
@@ -10,4 +10,4 @@ Firestore Writer Waster tag allows recording data from server Google Tag Manager
 
 ## Open Source
 
-Firestore Writer Waster Tag for GTM Server Side is developed and maintained by [Sourei Team](https://sourei.com.br/).
+Firestore Writer Wascer Tag for GTM Server Side is developed and maintained by [Sourei Team](https://sourei.com.br/).
